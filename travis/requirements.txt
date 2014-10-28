@@ -33,3 +33,4 @@ vatnumber
 vobject
 werkzeug
 xlwt
+boto
